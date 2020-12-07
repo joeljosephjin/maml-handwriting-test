@@ -14,7 +14,7 @@ Experiments on few shot MAML classification with a bunch of handwritten digits. 
 
 ## Results
 
-### Meta-Testing Training Loss (MAML) for five steps
+### [Meta-Test] Training Loss (MAML) for five steps
 
 ```
 0 11.376582145690918
@@ -34,7 +34,7 @@ Experiments on few shot MAML classification with a bunch of handwritten digits. 
 4 1.3334368467330933
 ```
 
-### Meta-Testing Testing Loss (MAML)
+### [Meta-Test] Testing Loss (MAML)
 ```
 21.9514
 ```
