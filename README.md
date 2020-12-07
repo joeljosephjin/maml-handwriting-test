@@ -24,7 +24,7 @@ Experiments on few shot MAML classification with a bunch of handwritten digits. 
 4 0.8511329889297485
 ```
 
-### Meta-Testing Testing Loss (Random Initialization) for five steps
+### Training Loss (Random Initialization) for five steps
 
 ```
 0 9.94571590423584
@@ -39,7 +39,7 @@ Experiments on few shot MAML classification with a bunch of handwritten digits. 
 21.9514
 ```
 
-### Meta-Testing Testing Loss (Random Initialization)
+### Testing Loss (Random Initialization)
 ```
 21.7752
 ```
